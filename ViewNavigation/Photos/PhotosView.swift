@@ -7,6 +7,7 @@
 
 import SwiftUI
 import PhotosUI
+import UIComponents
 
 struct PhotosView: View {
     
